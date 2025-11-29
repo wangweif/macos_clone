@@ -1,0 +1,8 @@
+{
+  "name": "Liquid iOS Simulator",
+  "description": "A high-fidelity, 1:1 web-based iOS simulator featuring the latest Liquid Glass aesthetic, powered by Gemini for Siri, with functional Camera and Music apps.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
